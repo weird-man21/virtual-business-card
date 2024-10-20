@@ -1,0 +1,22 @@
+body {
+    margin: 20px;
+    font-family: cursive;
+    
+}
+
+.avatar {
+    width: 200px;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0px auto;
+    text-align: center;
+    background: linear-gradient(rgb(207, 200, 207),pink);
+    color: #2b2839;
+    border-bottom: 2px solid rgb(207, 185, 207);
+
+}
